@@ -1,0 +1,36 @@
+.meetUp-container {
+    height: 250px;
+    width: 96%;
+    margin: 2% auto;
+    background-color: #c9c9c9;
+}
+
+.meetUp-container .image-meetUp {
+    width: 210px;
+    height: 210px;
+    margin: 20px;
+    background-color: rgb(148, 148, 148);
+    float: left;
+}
+
+.meetUp-container table {
+    float: left;
+    margin-left: 20px;
+}
+
+.meetUp-container table tr td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.meetUp-container table a {
+    margin-top: 10px;
+    color: #fff;
+    font-weight: 500;
+    background-color: rgb(100, 100, 100);
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 20px;
+    transition: all 0.8s;
+}

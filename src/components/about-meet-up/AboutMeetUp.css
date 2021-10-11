@@ -1,0 +1,19 @@
+.about-meetUp-container {
+    overflow: hidden;
+    width: 96%;
+    margin: 2% auto;
+}
+
+.about-meetUp-container h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.about-meetUp-container .about-meetUp-content {
+    width: 92%;
+    margin-left: 2.5%;
+    margin-top: 0;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 10px;
+}

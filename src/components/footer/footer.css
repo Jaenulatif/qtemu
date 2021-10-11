@@ -1,0 +1,9 @@
+.footer-container {
+    overflow: hidden;
+    width: 96%;
+    margin: 2% auto;
+}
+.footer-container p {
+    font-weight: bold;
+    text-align: center;
+}

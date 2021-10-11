@@ -1,0 +1,35 @@
+.nav-container {
+    height: 55px;
+    background-color: #505050;
+
+}
+.nav-container .nav-items {
+    height: 20px;
+
+    color: #999999;
+    font-size: 17px;
+}
+.nav-container .nav-items h3 {
+    display: inline;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    color: #e9e9e9;
+}
+
+.nav-container .nav-items a {
+    margin-left: 40px;
+    float: left;
+    margin-top: 12px;
+    color: white;
+}
+
+.nav-container .nav-items a:link {
+    text-decoration: none;
+
+}
+
+.nav-container .nav-items .Login {
+    float: right;
+    margin-right: 20px;
+}
